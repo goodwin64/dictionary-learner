@@ -6,7 +6,7 @@ You opened up a dictionary to a page in the "middle" and started flipping throug
 Well. Right now you have a list of words that are mostly alphabetical, except they start somewhere in the "middle" of the alphabet, reach the end, and then start from the beginning of the alphabet. In other words, this is an alphabetically ordered list that has been "rotated". 
 
 ### TASK 
-Write a function for finding the index of the "rotation point", which is where I started working from the beginning of the dictionary. This list is huge (there are lots of words I don't know) so we want to be efficient here.
+Write a function for finding the index of the "rotation point", which is where I started working from the beginning of the dictionary. This list is huge (there are lots of words you don't know) so we want to be EFFICIENT here.
 
 ### For example:
 
